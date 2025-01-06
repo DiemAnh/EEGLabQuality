@@ -6,6 +6,8 @@ A recent study has shown that indoor environmental factors like light, temperatu
 
 ## Flowchart
 <img width="620" alt="flowchart" src="https://github.com/user-attachments/assets/9f17b321-e235-4bb4-a6db-a906f0d81adf" />
+
+## Application
 Data in the storage will be displayed in a flutter app for monitoring environment parameters
 
 <img width="337" alt="app" src="https://github.com/user-attachments/assets/078c2e05-a843-4bf6-9e5d-de8761a041fd" />
